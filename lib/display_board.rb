@@ -9,5 +9,3 @@ def display_board(board)
   puts " #{board[6]} " + pipe + " #{board[7]} " + pipe + " #{board[8]} "
   
 end
-
-display_board
